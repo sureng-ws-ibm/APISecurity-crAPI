@@ -5,6 +5,7 @@ go 1.14
 require (
 	github.com/badoux/checkmail v0.0.0-20200623144435-f9f80cb795fa
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/go-bongo/go-dotaccess v0.0.0-20190924013105-74ea4f4ca4eb
 	github.com/go-stack/stack v1.8.0
