@@ -15,7 +15,7 @@ require (
 	github.com/gorilla/mux v1.7.4
 	github.com/jinzhu/gorm v1.9.14
 	github.com/joho/godotenv v1.3.0
-	github.com/klauspost/compress v1.9.5
+	github.com/klauspost/compress v1.16.1
 	github.com/lib/pq v1.7.0 // indirect
 	github.com/lithammer/shortuuid v3.0.0+incompatible
 	github.com/oleiade/reflections v1.0.0
